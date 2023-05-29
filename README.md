@@ -23,9 +23,9 @@ O projeto em questão tem o objetivo de apresentar o funcionamento do algoritmo 
 Tenha instalado em sua maquina: JDK (Java Development Kit)
 
 ## Uso 
-1 - Clone o repositório
-2 - Importe o projeto no eclipse 
-3 - Execute
+1 - Clone o repositório</br>
+2 - Importe o projeto no eclipse</br>
+3 - Execute</br>
 
 
 
