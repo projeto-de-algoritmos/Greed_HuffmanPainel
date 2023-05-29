@@ -13,19 +13,19 @@
 O projeto em questão tem o objetivo de apresentar o funcionamento do algoritmo de huffman. 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![image](https://github.com/projeto-de-algoritmos/Greed_HuffmanPainel/assets/69825746/785d45cc-6576-472d-80e5-ff2f703e3f8e)
+![image](https://github.com/projeto-de-algoritmos/Greed_HuffmanPainel/assets/69825746/1a6c7554-7c05-4222-9067-d96162603565)
+
 
 ## Instalação 
 **Linguagem**: Java<br>
-**Framework**: Visual Studio Code<br>
-Tenha instalado em sua maquina: JDK (Java Development Kit), Visual Studio Code
+**Framework**: Eclipse<br>
+Tenha instalado em sua maquina: JDK (Java Development Kit)
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
+1 - Clone o repositório
+2 - Importe o projeto no eclipse 
+3 - Execute
 
 
 
