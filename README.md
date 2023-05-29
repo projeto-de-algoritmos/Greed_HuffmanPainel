@@ -13,8 +13,8 @@
 O projeto em questão tem o objetivo de apresentar o funcionamento do algoritmo de huffman. 
 
 ## Screenshots
-![image](https://github.com/projeto-de-algoritmos/Greed_HuffmanPainel/assets/69825746/785d45cc-6576-472d-80e5-ff2f703e3f8e)
-![image](https://github.com/projeto-de-algoritmos/Greed_HuffmanPainel/assets/69825746/1a6c7554-7c05-4222-9067-d96162603565)
+![image](https://github.com/projeto-de-algoritmos/Greed_HuffmanPainel/assets/69825746/785d45cc-6576-472d-80e5-ff2f703e3f8e)</br>
+![image](https://github.com/projeto-de-algoritmos/Greed_HuffmanPainel/assets/69825746/24584e15-5cd7-4062-bb10-1d3eed822b1e)
 
 
 ## Instalação 
